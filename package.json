@@ -1,0 +1,22 @@
+{
+  "name": "tyrus-webserver",
+  "version": "1.0.0",
+  "description": "This package contains a very simple web server that takes one argument for port and then serves any files inside the public directory.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-Tyrus20.git"
+  },
+  "keywords": [
+    "webserver"
+  ],
+  "author": "Tyrus20",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-Tyrus20/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-Tyrus20#readme"
+}
